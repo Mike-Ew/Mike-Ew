@@ -7,7 +7,7 @@ AI Engineer
 Dedicated to creating and Learning Artificial Intelligence technologies to improve Enterprise Operations
 
 * 🌍  I'm based in Texas
-* ✉️  You can contact me at [davidmike.ewewie@gmail.com](mailto:davidmike.ewewie@gmail.com)
+* ✉️  You can contact me at [contact@davidmike.io](mailto:contact@davidmike.io)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Projects
 
