@@ -11,7 +11,7 @@ Building scalable ML/AI systems that bridge research and production. Published r
 * 🎓  MS Computer Science @ UTPB (GPA: 3.9/4.0)
 * 🚀  Currently building: LLM trading infrastructure, IT infrastructure company
 * 🧠  Learning: Advanced MLOps, Kubernetes CKA, LLM optimization
-* 🤝  Open to: AI Infrastructure roles ($140-180k), consulting opportunities
+* 🤝  Open to: AI Infrastructure roles, consulting opportunities
 * 💼  Managing 130+ person operation remotely while in school
 
 ### Current Projects
